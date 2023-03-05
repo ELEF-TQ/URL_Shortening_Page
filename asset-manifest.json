@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/URL_Shortening_Page/static/css/main.7b5459a2.css",
+    "main.js": "/URL_Shortening_Page/static/js/main.7622db3d.js",
+    "static/media/illustration-working.svg": "/URL_Shortening_Page/static/media/illustration-working.c9b5ef5452363d8be3df709375d50bd0.svg",
+    "static/media/logo.svg": "/URL_Shortening_Page/static/media/logo.834643034343520f3b4d7e43111ed4d8.svg",
+    "static/media/icon-fully-customizable.svg": "/URL_Shortening_Page/static/media/icon-fully-customizable.a1532a74fa781f6fde327313bd5ffce3.svg",
+    "static/media/icon-brand-recognition.svg": "/URL_Shortening_Page/static/media/icon-brand-recognition.c349d3b69f7442e5ac3552e4138e72e7.svg",
+    "static/media/bg-boost-desktop.svg": "/URL_Shortening_Page/static/media/bg-boost-desktop.772154c9b0e451733f5ef5a737ffe720.svg",
+    "static/media/icon-detailed-records.svg": "/URL_Shortening_Page/static/media/icon-detailed-records.265c8aea77b546e08ba3575f6a8a9f70.svg",
+    "static/media/icon-instagram.svg": "/URL_Shortening_Page/static/media/icon-instagram.df5873287e1c06a0fe74440f6ccd8394.svg",
+    "index.html": "/URL_Shortening_Page/index.html",
+    "static/media/icon-pinterest.svg": "/URL_Shortening_Page/static/media/icon-pinterest.a2d25ab4c70b78c4028f25323009cc58.svg",
+    "static/media/bg-boost-mobile.svg": "/URL_Shortening_Page/static/media/bg-boost-mobile.4b04bd89ea775da3deff8991b15aff8c.svg",
+    "static/media/bg-shorten-desktop.svg": "/URL_Shortening_Page/static/media/bg-shorten-desktop.0d9742f433f4b0d8752b40ccf28727af.svg",
+    "static/media/icon-twitter.svg": "/URL_Shortening_Page/static/media/icon-twitter.1d5c6d5e6ab1717a500af2df0a87959a.svg",
+    "static/media/icon-facebook.svg": "/URL_Shortening_Page/static/media/icon-facebook.229c75a01827343aef31ae916e2ec18a.svg",
+    "static/media/bg-shorten-mobile.svg": "/URL_Shortening_Page/static/media/bg-shorten-mobile.41c34b33a14a3077e506acb101113013.svg",
+    "main.7b5459a2.css.map": "/URL_Shortening_Page/static/css/main.7b5459a2.css.map",
+    "main.7622db3d.js.map": "/URL_Shortening_Page/static/js/main.7622db3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5459a2.css",
+    "static/js/main.7622db3d.js"
+  ]
+}
