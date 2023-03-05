@@ -1,25 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
+import Header from "./Componenets/Header"
+import Showcase from "./Componenets/Showcase"
+import Shortener from "./Componenets/Shortener"
+import Advanced from "./Componenets/Advanced"
+import Boost from "./Componenets/Boost"
+import Footer from "./Componenets/Footer"
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+      <Header />
+      <Showcase />
+      <Shortener />
+      <Advanced />
+      <Boost />
+      <Footer />
+    </>
+  )
 }
-
-export default App;
